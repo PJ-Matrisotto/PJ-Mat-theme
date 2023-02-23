@@ -1,1 +1,1 @@
-# PJ-Mat-theme.io
+# PJ-Mat-theme
